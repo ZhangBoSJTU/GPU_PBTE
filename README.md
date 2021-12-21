@@ -156,7 +156,6 @@ The following is an example of part OF QFC.dat:
 ```
 
 ## Output files
-
 Many files and directories are created during a successful run of `GPU_PBTE`. They contain not only the thermal conductivity and related quantities, but also a set of intermediate results that may be useful to diagnose problems.
 
 * `Job 1`
@@ -179,9 +178,10 @@ Many files and directories are created during a successful run of `GPU_PBTE`. Th
   - time: 1.460528847358342e-15 s 1s=6.846834979046800e+14 Bohr*sqrt(M/Ry)
   - temp: 1 K
   - kB= 1.380648813e-23 J/K
-## Website:
-* https://github.com/ZhangBoSJTU/GPUPBTE
-## Citations:
+## Website
+  - https://github.com/ZhangBoSJTU/GPUPBTE
+  - https://gitlab.com/xiaokun.gu/GPU_PBTE
+## Citations
 Mandatory citation for any work used GPU_PBTE:
 
 If you use GPU_PBTE in your published work, we kindly ask you to cite the following paper which describes the central algorithms used in GPU_PBTE
