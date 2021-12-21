@@ -183,5 +183,7 @@ Many files and directories are created during a successful run of `GPU_PBTE`. Th
 * https://github.com/ZhangBoSJTU/GPUPBTE
 ## Citations:
 Mandatory citation for any work used GPU_PBTE:
-If you use GPU_PBTE in your published work, we kindly ask you to cite the following paper which describes the central algorithms used in GPU_PBTE:
-[1] Zhang B, Fan Z, Zhao CY, Gu X. GPU_PBTE: an efficient solver for three and four phonon scattering rates on graphics processing units. J Phys Condens Matter. 2021 Sep 30;33(49). doi: 10.1088/1361-648X/ac268d. PMID: 34521073. https://iopscience.iop.org/article/10.1088/1361-648X/ac268d
+
+If you use GPU_PBTE in your published work, we kindly ask you to cite the following paper which describes the central algorithms used in GPU_PBTE
+
+  - Zhang B, Fan Z, Zhao CY, Gu X. GPU_PBTE: an efficient solver for three and four phonon scattering rates on graphics processing units. J Phys Condens Matter. 2021 Sep 30;33(49). doi: 10.1088/1361-648X/ac268d. PMID: 34521073. https://iopscience.iop.org/article/10.1088/1361-648X/ac268d
