@@ -172,6 +172,16 @@ Many files and directories are created during a successful run of `GPU_PBTE`. Th
   - `rt_y.dat `: phonon relaxation time y-th temperature
   - `TC_k_inf.dat`: thermal conductivity at k temperature
 
+## Units system adopted within GPU_PBTE
+  - energy: Ry 2.179872e-18 J
+  - length: bohr 5.2917720859e-11 m
+  - mass: 1.66053873e-27 kg
+  - time: 1.460528847358342e-15 s 1s=6.846834979046800e+14 Bohr*sqrt(M/Ry)
+  - temp: 1 K
+  - kB= 1.380648813e-23 J/K
 ## Website:
-
-* https://gitlab.com/xiaokun.gu/GPU_PBTE
+* https://github.com/ZhangBoSJTU/GPUPBTE
+## Citations:
+Mandatory citation for any work used GPU_PBTE:
+If you use GPU_PBTE in your published work, we kindly ask you to cite the following paper which describes the central algorithms used in GPU_PBTE:
+[1] Zhang B, Fan Z, Zhao CY, Gu X. GPU_PBTE: an efficient solver for three and four phonon scattering rates on graphics processing units. J Phys Condens Matter. 2021 Sep 30;33(49). doi: 10.1088/1361-648X/ac268d. PMID: 34521073. https://iopscience.iop.org/article/10.1088/1361-648X/ac268d
