@@ -1,7 +1,7 @@
-.false. 20 # .true.: RTA; .false.: Iterative
+.true. 20 # .true.: RTA; .false.: Iterative
 .true. # third-order
 .true. # fourth-order
-.true.  # isotope scattering
+.false.  # isotope scattering
 10.2621 # lattice constant
 0 0.5 0.5 # vectors for unit cell
 0.5 0 0.5
@@ -12,9 +12,9 @@
 1.529e-4 1.529e-4  # isotope g2
 0.0   0.0   0.0 # positions for bases
 0.25  0.25  0.25
-5 5 5  # number of q points to sample
-1      # number of temperature
-300 #temperature
+9 9 9  # number of q points to sample
+2      # number of temperature
+300 1500 #temperature
 .true. .true. .true. # which directions are computed
 1e20 # sample size
 1 1.0 1.0

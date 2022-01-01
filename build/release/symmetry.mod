@@ -1,6 +1,6 @@
 V34 :0x24 symmetry
-16 src/Symmetry.f90 S624 0
-08/10/2021  17:12:28
+12 Symmetry.f90 S624 0
+01/01/2022  20:58:15
 use iso_c_binding public 0 direct
 enduse
 B 525 iso_c_binding c_loc

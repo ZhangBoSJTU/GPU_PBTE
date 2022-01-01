@@ -1,6 +1,6 @@
 V34 :0x24 smearingfunctions
-16 src/Smearing.f90 S624 0
-08/10/2021  17:32:27
+12 Smearing.f90 S624 0
+01/01/2022  20:58:16
 enduse
 D 58 23 10 1 11 13 0 0 0 0 0
  0 13 11 11 13 13

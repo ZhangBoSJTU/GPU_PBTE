@@ -134,6 +134,11 @@ module Accrelate_V4
     real(8),dimension(:,:,:),intent(out)::AA(nBand*NQtot,nBand,nTemp)
     
     i1=blockDim%x*(blockIdx%x-1)+threadIdx%x
+    ato=0d0
+    dgg=0d0
+    GG1=0d0
+    GG2=0d0
+    GG3=0d0
     if( i1 .le. isscattcount ) then
         iq1=isscatt(i1,1)
         iq2=q12List(iq1,2)
