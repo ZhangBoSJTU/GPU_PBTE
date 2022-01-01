@@ -179,7 +179,7 @@ Many files and directories are created during a successful run of `GPU_PBTE`. Th
   - temp: 1 K
   - kB= 1.380648813e-23 J/K
 ## Website
-  - https://github.com/ZhangBoSJTU/GPUPBTE
+  - https://github.com/ZhangBoSJTU/GPU_PBTE
   - https://gitlab.com/xiaokun.gu/GPU_PBTE
 ## Citations
 Mandatory citation for any work used GPU_PBTE:
